@@ -1,4 +1,5 @@
 ----------------Description----------------
+
 login.php - Login form for the user to access the system. They must provide an email address and password.
 
 register.php - Displays the registration form for the participant to create an account. They must upload a profile 
